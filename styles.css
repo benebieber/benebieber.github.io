@@ -107,7 +107,7 @@ body{
 
 #tips:hover{
     opacity:0.8; filter:alpha(opacity=80);
-    }
+}
 
 #box{
     background-color: whitesmoke;
@@ -117,18 +117,23 @@ body{
     width: 70%;
     margin: 0 auto;
     margin-top: 21%;
-    padding:5%;
+    padding-left:5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    padding-top:2%;
     font-size:18;
     line-height:130%;
     word-break: break-all;
     text-decoration: none;
 }
 
-#overskrift{
-    color:black;
-    font-size:30px;
-    text-decoration: none;
-    line-height:120%;
+#r1{
+    width:94%;
+    margin:3%;
+}
+
+#r1:hover{
+    opacity:0.7; filter:alpha(opacity=70);
 }
 
 #leftbox{
@@ -158,6 +163,8 @@ body{
 
 #footer{
     /* background-color: aquamarine; */
+    font-size:20px; 
+    color:white;
     margin: 0 auto;
     height: 70px;
     width: 73%;
