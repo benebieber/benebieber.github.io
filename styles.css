@@ -66,10 +66,11 @@ body{
     background-repeat: no-repeat;
     /* background-attachment: fixed; */
     font-family:myFirstFont;
+    font-family:Calibri;
 }
 
 #header{
-    background-color: rebeccapurple;
+    /* background-color: rebeccapurple; */
     height: 60px;
     width: 40%;
     margin-left:60%;
@@ -77,13 +78,16 @@ body{
 }
 
 #kontakt{
-    background-color: sienna;
+    background-color:#06152cff;
+    color:white;
     float: left;
     width: 30%;
     height: 50px;
     margin: 0 auto;
     margin-right: 5%;
     text-decoration: none;
+    text-align: center;
+    vertical-align: middle;
 }
 
 #kontakt:hover{
@@ -91,12 +95,14 @@ body{
     }
 
 #tips{
-    background-color: olivedrab;
+    background-color: #06152cff;
+    color:white;
     float: left;
     width: 30%;
     height: 50px;
     margin: 0 auto;
     text-decoration: none;
+    text-align: center;
 }
 
 #tips:hover{
@@ -107,26 +113,35 @@ body{
     background-color: whitesmoke;
     color: gray;
     opacity: 0.7;
-    height: 1000px;
+    height: 100%;
     width: 70%;
     margin: 0 auto;
-    margin-top: 27%;
+    margin-top: 21%;
     padding:5%;
-    font-family:Calibri;
     font-size:18;
-	line-height:130%;
+    line-height:130%;
+    word-break: break-all;
+    text-decoration: none;
+}
+
+#overskrift{
+    color:black;
+    font-size:30px;
+    text-decoration: none;
+    line-height:120%;
 }
 
 #leftbox{
-    background-color: chartreuse;
+    /* background-color: chartreuse; */
     width:30%;
     height: 100%;
     float: left;
+    
 }
 
 
 #middlebox{
-    background-color: fuchsia;
+    /* background-color: fuchsia; */
     width:30%;
     height: 100%;
     float: left;
@@ -135,18 +150,18 @@ body{
 }
 
 #rightbox{
-    background-color: navajowhite;
+    /* background-color: navajowhite; */
     width:30%;
     height: 100%;
     float: left;
 }
 
 #footer{
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     margin: 0 auto;
     height: 70px;
-    width: 70%;
-    padding-left:5%;
+    width: 73%;
+    padding-left:2%;
     padding-right:5%;
     padding-top:2%; 
 }
