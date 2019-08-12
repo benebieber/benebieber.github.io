@@ -15,9 +15,11 @@ time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
 	vertical-align: baseline;
 }
+
+
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
@@ -42,20 +44,7 @@ table {
 	border-spacing: 0;
 }
 
-/* Ændring skal kun laves nedenunder denne linje */
 
-@font-face {
-    font-family:myFirstFont;
-    src: url('fonts/calibri.ttf');
-	format:('truetype');
-}
-
-@font-face {
-    font-family:myFirstFont;
-    src: url('fonts/calibrib.ttf');
-	format:('truetype');
-	font-weight: bold;
-}
 
 
 
@@ -71,6 +60,7 @@ body{
 
 #header{
     /* background-color: rebeccapurple; */
+    font-family: 'Oswald', sans-serif;
     height: 60px;
     width: 40%;
     margin-left:60%;
@@ -171,4 +161,34 @@ body{
     padding-left:2%;
     padding-right:5%;
     padding-top:2%; 
+}
+
+
+
+
+#box2{
+    background-color: cornflowerblue;
+
+    height: 50%;
+    width: 100%;    
+    float:bottom;
+
+}
+
+
+#header2{
+    background-color: rebeccapurple;
+    height: 100px;
+    width: 40%;
+    margin-left:17%;
+    padding: 1.5%;
+}
+
+body {
+    font-family: 'Cardo', serif;
+}
+
+h1, h2, h3, h4, h5, h6, header {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
 }
