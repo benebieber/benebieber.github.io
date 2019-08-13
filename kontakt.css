@@ -8,5 +8,11 @@
 
 #container-kontakt{
     margin-bottom: 8%;
+    margin-top: 5%;
     text-align: center;
+}
+
+h2{
+    color:white;
+    font-size: 270%;
 }
