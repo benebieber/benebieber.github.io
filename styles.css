@@ -12,7 +12,7 @@ body{
     background-color: white;
     opacity: 0.7;
     text-align: center;
-}
+} 
 
 #container-header{
     margin-bottom: 8%;
@@ -37,10 +37,10 @@ body{
     text-decoration: none;
 }
 
-#icon-box-top:hover{
+/* #icon-box-top:hover{
     opacity:0.8; filter:alpha(opacity=80);
 }
 
 #icon-box-bottom:hover{
     opacity:0.8; filter:alpha(opacity=80);
-}
+} */
