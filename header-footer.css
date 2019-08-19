@@ -8,7 +8,7 @@
 
 nav .navbar-nav li a{
     color:#06152cff !important;
-    font-size: 40px;
+    font-size: calc(18px + 1vw);
     }
   
 
