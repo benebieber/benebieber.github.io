@@ -26,8 +26,9 @@ nav .navbar-nav li a{
 h1 {
     color:  white;
     margin-bottom:-2.5%;
-    font-size: 60px;
+    font-size: calc(20px + 3vw);
 }
+
 
 h4 {
     color:  white;
