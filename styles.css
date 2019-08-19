@@ -44,3 +44,7 @@ body{
 #icon-box-bottom:hover{
     opacity:0.8; filter:alpha(opacity=80);
 } */
+
+#pris{
+    font-size: 25px;
+}
