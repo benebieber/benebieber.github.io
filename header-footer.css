@@ -2,19 +2,12 @@
     height:100px;
 }
 
-/* .navbar-light .nav-link{
-    color:#0c596aff;
-} */
-
-/* nav .navbar-nav li a{
-    color:#06152cff !important;
-    font-size: calc(18px + 1vw);
-    } */
-  
-
-
 .nav-link:hover{
     opacity:0.5; filter:alpha(opacity=50);
+}
+
+#container-header{
+    margin-bottom: 8%;
 }
 
 #container-footer{

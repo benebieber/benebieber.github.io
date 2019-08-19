@@ -14,10 +14,6 @@ body{
     text-align: center;
 } 
 
-#container-header{
-    margin-bottom: 8%;
-}
-
 .btn-default, .btn-default:hover, .btn-default:active, .btn-default:visited {
     background-color: #06152c !important;
     color: white !important;
