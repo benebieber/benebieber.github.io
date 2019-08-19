@@ -6,11 +6,16 @@
     color:#0c596aff;
 } */
 
+<<<<<<< HEAD
 nav .navbar-nav li a{
     color:#06152cff !important;
     font-size: 40px;
     }
  
+=======
+
+
+>>>>>>> master
 .nav-link:hover{
     opacity:0.5; filter:alpha(opacity=50);
 }
