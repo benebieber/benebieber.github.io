@@ -7,7 +7,7 @@ body{
     font-family: 'Lexend Exa', sans-serif;
 }
 p:lang(da) {
-    font-size: calc(7px + 0.7vw);
+    font-size: calc(9.5px + 0.6vw);
 
     -ms-word-break: normal;
      word-break: normal;
