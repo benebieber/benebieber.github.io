@@ -6,6 +6,7 @@ h1 {
 
 h3 {
     color: black;
+    font-size: calc(12px + 1vw);
 }
 
 h4 {
