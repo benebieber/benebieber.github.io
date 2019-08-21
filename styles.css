@@ -83,3 +83,19 @@ p:lang(da) {
     text-align: center;
     padding-bottom: 4%;
 }
+
+a:link {
+    color: black;
+}
+/* A link that has been visited */
+a:visited {
+    color: black;
+}
+/* A link that is hovered on */
+a:hover {
+    color: black;
+}
+/* A link that is selected */
+a:active {
+    color: black;
+}
