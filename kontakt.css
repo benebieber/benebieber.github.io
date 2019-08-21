@@ -29,6 +29,11 @@ p:lang(da) {
         width: 50%;
   }
 }
+
+#neh{
+    word-break:keep-all;
+    overflow: visible;
+    }
 /* p:lang(da) {
     -ms-word-break: normal;
      word-break: normal;
