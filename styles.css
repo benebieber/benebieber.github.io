@@ -7,6 +7,8 @@ body{
     font-family: 'Lexend Exa', sans-serif;
 }
 p:lang(da) {
+    font-size: calc(7px + 0.7vw);
+
     -ms-word-break: normal;
      word-break: normal;
 
@@ -30,6 +32,7 @@ p:lang(da) {
     /* overflow-wrap: break-word;  */
 
 }
+
 
 #icon{
     width: 80%;
