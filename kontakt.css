@@ -1,7 +1,7 @@
 #icon-box-kontakt{
     margin-top: 18%;
     margin-bottom: 18%;
-    font-size: 18px;
+    font-size: 10px;
     color:black;
     text-decoration: none;
 }
@@ -18,11 +18,17 @@ h2{
 }
 
 p:lang(da) {
+    font-size: calc(9px + 0.6vw);
+}
+
+/* p:lang(da) {
     -ms-word-break: normal;
      word-break: normal;
+     font-size: calc(9.5px + 0.6vw);
+     /* between paragraphs */
 
      /* Non standard for WebKit */
-     word-break: break-word;
+     /* word-break: break-word;
 
 -webkit-hyphens: manual;
    -moz-hyphens: manual;
@@ -30,7 +36,7 @@ p:lang(da) {
 }
 .col-md-4{
     text-align: center;
-    font-size: 18px;
+    font-size: 10px;
     color:black;
     text-decoration: none;
     padding-top: 40px;
@@ -40,7 +46,7 @@ p:lang(da) {
     padding: 0 10% 0 10%;
     /* overflow-wrap: break-word;  */
 
-}
+/* }
 
 #icon{
     width: 80%;
@@ -52,4 +58,4 @@ p:lang(da) {
     width: 90%;
     opacity: 0.7;
 
-}
+} */ 
