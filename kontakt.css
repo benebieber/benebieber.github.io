@@ -20,7 +20,15 @@ h2{
 p:lang(da) {
     font-size: calc(9px + 0.6vw);
 }
-
+.icon2{
+    width: 80%;
+    padding: 0 10% 0 10%;
+}
+@media only screen and (max-width: 767px) {
+    .icon2 {
+        width: 50%;
+  }
+}
 /* p:lang(da) {
     -ms-word-break: normal;
      word-break: normal;
