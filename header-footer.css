@@ -1,5 +1,5 @@
 h1 {
-    color:  white;
+    color:  #06152c;
     margin-bottom:-2.5%;
     font-size: calc(20px + 3vw);
 }
@@ -10,7 +10,7 @@ h3 {
 }
 
 h4 {
-    color:  white;
+    color:  #06152c;
     font-size: calc(12px + 0.7vw);
     text-indent: 0.5%;
     letter-spacing: 0.2em;
